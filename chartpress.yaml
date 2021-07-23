@@ -1,0 +1,6 @@
+# chartpress.yaml
+charts:
+  - name: test-chart
+    repo:
+      git: consideratio/debug-chartpress-bug
+      published: https://consideratio.github.io/debug-chartpress-bug
