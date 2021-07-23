@@ -3,6 +3,16 @@ entries:
   test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-07-23T06:49:08.220721853Z"
+    description: A Helm chart for Kubernetes
+    digest: 4185cceead52caa52b3ea589b97dd30c44b10e426001ab574e3d9127f2035d8a
+    name: test-chart
+    type: application
+    urls:
+    - https://consideratio.github.io/debug-chartpress-bug/test-chart-0.0.1-n004.hfb4e6d0.tgz
+    version: 0.0.1-n004.hfb4e6d0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-07-23T08:44:16.857135777+02:00"
     description: A Helm chart for Kubernetes
     digest: fc4d7d93d131b12d47ae6e3a421aa18f584e93e47cdff16e71814452bc35b5d3
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://consideratio.github.io/debug-chartpress-bug/test-chart-0.0.1-n003.h4f43059.tgz
     version: 0.0.1-n003.h4f43059
-generated: "2021-07-23T08:44:16.856703086+02:00"
+generated: "2021-07-23T06:49:08.220074745Z"
